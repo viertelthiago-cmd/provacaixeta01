@@ -1,0 +1,26 @@
+{
+  "name": "provacaixeta01",
+  "version": "1.0.0",
+  "description": "prova",
+  "homepage": "https://github.com/viertelthiago-cmd/provacaixeta01#readme",
+  "bugs": {
+    "url": "https://github.com/viertelthiago-cmd/provacaixeta01/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viertelthiago-cmd/provacaixeta01.git"
+  },
+  "license": "ISC",
+  "author": "thiago",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "swagger-jsdoc": "^6.3.0",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
